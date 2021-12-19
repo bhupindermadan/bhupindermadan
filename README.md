@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bhupindermadan
+- 👋 Hi, I’m @bhupindermadan -- Bhupinder Madan
 - 👀 I’m interested in neural networks.
 - 🌱 I’m currently trying to get back to it from a while back when I used to work in similar areas.
 - 💞️ I’m looking to collaborate on ... still figuring out.
